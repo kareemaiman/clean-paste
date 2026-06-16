@@ -34,6 +34,11 @@ Build a premium, modern text cleaning desktop application using Python that:
   - `main()`: Initializes and starts the desktop main loops.
 - **[test_cleaner.py](file:///c:/Users/karee/OneDrive/Desktop/random%20projects/ai%20text%20cleaner/test_cleaner.py)**: Test suite.
   - Test functions for cleaning routines.
+- **[README.md](file:///c:/Users/karee/OneDrive/Desktop/random%20projects/ai%20text%20cleaner/README.md)**: User guides and installation procedures.
+- **[.gitignore](file:///c:/Users/karee/OneDrive/Desktop/random%20projects/ai%20text%20cleaner/.gitignore)**: Excludes local environment artifacts from Git.
+- **[LICENSE](file:///c:/Users/karee/OneDrive/Desktop/random%20projects/ai%20text%20cleaner/LICENSE)**: MIT License documentation.
+
+
 
 ## Database Schema
 No database is involved in this project. All operations are in-memory and stateless.
